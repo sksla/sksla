@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8fcbf0&height=180&text=Hello!%20I'm%20Young%20Ju👋&animation=fadeIn&fontColor=f2f2f2&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 김영주 입니다😊 </h2>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 신입 개발자 김영주 입니다😊 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 꾸준히 성장하는 개발자가 되고 싶습니다!</li><li> 배움에 대한 열정이 가득합니다! </div> 
     </div>
     <div style="text-align: left;">
